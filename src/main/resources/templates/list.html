@@ -19,7 +19,7 @@
             <tr>
                 <!-- TODO #2: Complete the View Jobs By Category Table. -->
 
-                <td <a th:href="@{/list}">view all</td> <!-- Feel free to remove or modify this element if necessary. -->
+                <td> view all </td> <!-- Feel free to remove or modify this element if necessary. -->
                 <td th:each="category : ${tableChoices}">
                     <ul>
                         <li th:each="item : ${category.value}">
@@ -30,5 +30,4 @@
             </tr>
         </table>
     </body>
-
 </html>
