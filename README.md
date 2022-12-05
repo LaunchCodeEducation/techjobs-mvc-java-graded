@@ -5,6 +5,11 @@ design pattern.
 
 ## Assignment Requirements
 
+1. Review Starter Code
+2. Complete the List Views
+3. Complete the `searchController`
+4. Display Search Results
+
 ## Unit Tests
 
 The starter code contains 4 unit test classes.  As with previous graded assignments, each test class was created for a specific task in the instructions.
