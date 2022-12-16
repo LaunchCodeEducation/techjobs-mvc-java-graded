@@ -24,7 +24,8 @@ The starter code contains 4 unit test classes.  As with previous graded assignme
  
 ### Appearance and Code Check:
  
-[Working Demo App](https://lc-java-3-demo.herokuapp.com/)
+Before you start working, check out our [Working Demo App](https://java-techjobs-mvc.launchcodetechnicaltraining.org/).
+The app occasionally restarts. If you experience an error, please wait a few minutes before refreshing the page.
  
 1. Start the application.
 1. Test the search functionality of the project:
